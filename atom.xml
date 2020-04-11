@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://visitor-Ing.github.io</id>
     <title>VISITOR  BLOG</title>
-    <updated>2020-04-10T16:11:05.650Z</updated>
+    <updated>2020-04-11T02:08:37.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://visitor-Ing.github.io"/>
     <link rel="self" href="https://visitor-Ing.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://visitor-Ing.github.io/images/avatar.png</logo>
     <icon>https://visitor-Ing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, VISITOR  BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[重拾旧句]]></title>
+        <id>https://visitor-Ing.github.io/post/chong-shi-jiu-ju/</id>
+        <link href="https://visitor-Ing.github.io/post/chong-shi-jiu-ju/">
+        </link>
+        <updated>2020-04-11T01:58:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>你不是被别人丢下的，也不是为别人准备。一切自由生长，自己种花自己开，自己开错自己败。时间吹落的交给时间捡起来。                                                      —— ——  张嘉佳<br>
+<img src="https://visitor-Ing.github.io/post-images/1586570772410.jpg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你不是被别人丢下的，也不是为别人准备。一切自由生长，自己种花自己开，自己开错自己败。时间吹落的交给时间捡起来。                                                      —— ——  张嘉佳<br>
+<img src="https://visitor-Ing.github.io/post-images/1586570772410.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[钗头凤]]></title>
         <id>https://visitor-Ing.github.io/post/chai-tou-feng/</id>
