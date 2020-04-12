@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://visitor-Ing.github.io</id>
     <title>VISITOR  BLOG</title>
-    <updated>2020-04-11T02:39:04.131Z</updated>
+    <updated>2020-04-12T04:01:59.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://visitor-Ing.github.io"/>
     <link rel="self" href="https://visitor-Ing.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://visitor-Ing.github.io/images/avatar.png</logo>
     <icon>https://visitor-Ing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, VISITOR  BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[随笔]]></title>
+        <id>https://visitor-Ing.github.io/post/sui-bi/</id>
+        <link href="https://visitor-Ing.github.io/post/sui-bi/">
+        </link>
+        <updated>2020-04-12T03:41:10.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://visitor-Ing.github.io/post-images/1586663998607.jpg" alt="" loading="lazy"><br>
+人的心理就像一个密封的容器一般，当忍受的东西多了，只有输入没有输出也是会爆裂的吧。我的底线在哪呢？我很想知道，但又害怕知道，当知道的时候也会伤害到周围的人吧。人太孤僻了心里也就没有了激情，很矛盾，明明很害怕交际但又渴望交际，想让别人了解自己但又害怕别人看穿自己，这种感觉没法用言语表达，其实连我都不知道自己是一个什么样的人，心中有太多的矛盾太多的冲突，时而忘却时而又一鼓劲的涌上心头。为了不让自己到达崩溃的边缘，我也只能在这释放一下了。没有太多的顾虑，这是我最好的方法！<br>
+希望明天一切安好，今天顺心!</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重拾旧句]]></title>
         <id>https://visitor-Ing.github.io/post/chong-shi-jiu-ju/</id>
