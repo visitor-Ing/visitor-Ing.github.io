@@ -17,12 +17,6 @@
 <link rel="stylesheet" href="https://visitor-Ing.github.io/styles/main.css">
 
 
-  
-    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
-  
-
-  
-
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
@@ -84,56 +78,55 @@
 
 
       <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">随笔</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2020-04-12</span>
-            
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://visitor-Ing.github.io/tag/NUqIJIAmO/">
-                    随笔
-                    
-                      ，
-                    
-                  </a>
-                
-                  <a href="https://visitor-Ing.github.io/tag/W2BEfWzlHR/">
-                    心情
-                    
-                  </a>
-                
-              </span>
-            
-          </div>
-          <div class="post-content">
-            <p><img src="https://visitor-Ing.github.io/post-images/1586663998607.jpg" alt="" loading="lazy"><br>
-人的心理就像一个密封的容器一般，当忍受的东西多了，只有输入没有输出也是会爆裂的吧。我的底线在哪呢？我很想知道，但又害怕知道，当知道的时候也会伤害到周围的人吧。人太孤僻了心里也就没有了激情，很矛盾，明明很害怕交际但又渴望交际，想让别人了解自己但又害怕别人看穿自己，这种感觉没法用言语表达，其实连我都不知道自己是一个什么样的人，心中有太多的矛盾太多的冲突，时而忘却时而又一鼓劲的涌上心头。为了不让自己到达崩溃的边缘，我也只能在这释放一下了。没有太多的顾虑，这是我最好的方法！<br>
-希望明天一切安好，今天顺心!</p>
 
-          </div>
+        <div class="current-tag-container">
+          <h2 class="title">
+            <i class="icon icon-pricetags-outline"></i> 随笔
+          </h2> 
         </div>
 
         
-          <div class="next-post">
-            <a class="purple-link" href="https://visitor-Ing.github.io/post/chong-shi-jiu-ju/">
-              <h3 class="post-title">
-                下一篇：重拾旧句
-              </h3>
-            </a>
-          </div>
-          
+<section class="post-item">
+    <div class="content">
+      <a href="https://visitor-Ing.github.io/post/sui-bi/">
+        <h2 class="post-title">随笔</h2>
+      </a>
+      <div class="post-abstract">
+        
       </div>
+      <div class="post-info">
+        <span><i class="icon icon-calendar-outline"></i> 2020-04-12</span>
+        
+          <span>
+            <i class="icon icon-pricetags-outline"></i>
+            
+              <a href="https://visitor-Ing.github.io/tag/NUqIJIAmO/">
+                随笔
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://visitor-Ing.github.io/tag/W2BEfWzlHR/">
+                心情
+                
+              </a>
+            
+          </span>
+        
+      </div>
+    </div>
+    
+  </section>
 
-      
-        
-          <div id="gitalk-container"></div>
-        
 
-        
-      
+<div class="pagination-container">
+  
+  
+</div>
+
+
+      </div>
 
       <div class="site-footer">
   <div class="slogan">温故而知新</div>
@@ -167,29 +160,6 @@ var app = new Vue({
 })
 
 </script>
-
-
-
-  
-    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-
-      var gitalk = new Gitalk({
-        clientID: '3fa20f1d349bb40a9d6e',
-        clientSecret: '3d5bf47b1cd0d714c7059e1df3905e6b654ba198',
-        repo: 'visitor-Ing.github.io',
-        owner: 'visitor-Ing',
-        admin: ['visitor-Ing'],
-        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-      })
-
-      gitalk.render('gitalk-container')
-
-    </script>
-  
-
-  
 
 
 
